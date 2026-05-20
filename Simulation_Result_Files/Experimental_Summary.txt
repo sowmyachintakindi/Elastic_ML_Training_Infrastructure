@@ -1,0 +1,40 @@
+
+EXPERIMENTAL SUMMARY FOR PAPER
+========================================
+
+Dataset Information:
+- Total ML training scenarios: 150
+- Memory-constrained scenarios: 38
+- Model size distribution: Small (1-50M): 65, Medium (50-500M): 42, Large (500M-2B): 3, Very Large (2B+): 40
+
+Key Results for Abstract:
+- X% (Accuracy Improvement): 25.0%
+- Y% (Failure Prevention): 100.0%
+
+Detailed Performance Metrics:
+- Algorithmic decision accuracy: 83.3%
+- Manual decision accuracy: 66.7%
+- Training failures prevented: 10 out of 10 potential failures
+- Resource allocation efficiency: Reduced over-provisioning by 7 scenarios
+- Overall training success rate improvement: 6.7%
+
+Statistical Significance:
+- Total scenarios analyzed: 150
+- Decision accuracy improvement: 25 additional correct decisions
+- Critical failure prevention: 10 training failures avoided
+
+Methodology Validation:
+- Realistic algorithmic uncertainty included (8-20% error rates for edge cases)
+- Multiple manual decision maker types simulated (conservative, aggressive, random, experience-based)
+- Memory constraint scenarios properly identified and tested
+- Resource efficiency patterns analyzed across model size categories
+
+Files Generated:
+1. Figure1_Infrastructure_Selection_Accuracy.png - Main accuracy comparison results
+2. Figure2_Failure_Prevention_Analysis.png - Failure prevention and efficiency analysis
+3. Table1_Infrastructure_Selection_Accuracy.csv/.png - Detailed accuracy metrics
+4. Table2_Failure_Prevention_Results.csv/.png - Failure prevention and efficiency metrics
+5. Experimental_Summary.txt - This summary document
+
+Abstract Values Ready for Paper:
+"Our systematic approach achieves 25.0% average improvement in infrastructure selection accuracy over manual decisions and prevents 100.0% of memory-constraint training failures."

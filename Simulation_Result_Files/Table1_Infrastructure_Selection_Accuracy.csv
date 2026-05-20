@@ -1,0 +1,6 @@
+Metric,Manual Decisions,Algorithmic Decisions,Improvement
+Overall Accuracy,66.7%,83.3%,+25.0%
+Correct Decisions (Count),100/150,125/150,+25
+Average Decision Confidence,0.53,0.80,+0.27
+Memory-Constrained Accuracy,73.7%,100.0%,35.7%
+Large Model Accuracy (>500M params),52.9%,83.3%,57.5%

@@ -1,0 +1,6 @@
+Metric,Manual Decisions,Algorithmic Decisions,Improvement
+Memory-Constrained Training Failures,10/38 (26.3%),0/38 (0.0%),-10 failures
+Failure Prevention Rate,Baseline (0%),100.0%,+100.0%
+Resource Over-provisioning,27 scenarios,20 scenarios,-7 scenarios
+Resource Under-provisioning,23 scenarios,5 scenarios,-18 scenarios
+Overall Training Success Rate,93.3%,100.0%,+6.7%
